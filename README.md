@@ -7,16 +7,14 @@
 
 Passionate about programming, focusing on Backend development and solving complex problems. I am constantly studying and applying best practices in the Java ecosystem to expand my knowledge.
 
-Currently, I am seeking an internship or junior-level role to apply my academic knowledge, contribute to challenging projects, and learn from experienced professionals.
-
 ---
 
 ### 🛠️ Languages and Tools
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,js" /> |
-| **Web & Frameworks** | <img src="https://skillicons.dev/icons?i=spring,html,css,bootstrap" /> |
+| **Programming** | <img src="https://skillicons.dev/icons?i=java,js,html,css" /> |
+| **libraries & Frameworks** | <img src="https://skillicons.dev/icons?i=spring,bootstrap" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> |
 | **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,linux,git,github" /> |
 
