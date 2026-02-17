@@ -35,4 +35,7 @@ Passionate about building robust backend systems and solving complex problems. I
   <a href="https://linkedin.com/in/llfelipegoncalves" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://www.instagram.com/ll.felipegz/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
