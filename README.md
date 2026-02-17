@@ -7,6 +7,8 @@
 
 Passionate about programming, focusing on Backend development and solving complex problems. I am constantly studying and applying best practices in the Java ecosystem to expand my knowledge.
 
+Currently, I am seeking an internship or junior-level role to apply my academic knowledge, contribute to challenging projects, and learn from experienced professionals.
+
 ---
 
 ### 🛠️ Languages and Tools
